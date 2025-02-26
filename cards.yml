@@ -1,11 +1,10 @@
 build:
   version: "3.0"
 
-cards:
-  message: "Welcome to EazyBank cards related local APIs "
+accounts:
+  message: "Welcome to YgorBank accounts related docker APIs "
   contactDetails:
-    name: "Dragos Lech - Developer"
-    email: "dragos@eazybank.com"
+    name: "Ygor Nacif - Developer"
+    email: "ygor.nacif31@gmail.com"
   onCallSupport:
-    - (412) 419-3491
-    - (915) 382-1932
+    - 2198016-1321
